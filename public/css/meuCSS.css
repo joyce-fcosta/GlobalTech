@@ -1,0 +1,26 @@
+body{
+    margin: 0 none;
+}
+
+.middle{
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.start{
+    background-color: #836FFF;
+    width: 100vw;
+    height: 30vh;
+}
+
+.col{
+    border: 1px solid black;
+    height: 45vh;
+}
+
+
+
