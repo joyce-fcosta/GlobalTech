@@ -1,20 +1,45 @@
-<div class="container tudo">
-    <div class="row middle">
 
-        <div class="col">
-            <img src="https://placehold.it/200x200" alt="">
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati dignissimos totam quisquam fugiat? Voluptates, distinctio et.</p>
-        </div>
-
-        <div class="col">
-        <img src="https://placehold.it/200x200" alt="">
-            <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati dignissimos totam quisquam fugiat? Voluptates, distinctio et.</p>
-        </div>
-
-        <div class="col">
-        <img src="https://placehold.it/200x200" alt="">
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati dignissimos totam quisquam fugiat? Voluptates, distinctio et.</p>
-        </div>
-
+<div class="container-fluid pb-4 ">
+    <div class="row start">
+        <h1>Portifólio</h1>
     </div>
 </div>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col back_card">
+            <div class="card" style="width: 18rem; height: 23rem;">
+                <img class="card-img-top img-fluid" src="https://placehold.it/100px180" alt="Imagem de capa do card">
+                <div class="card-body">
+                    <h5 class="card-title">Título do card</h5>
+                    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                    <a href="#" class="btn btn-primary mb-4">Visitar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card" style="width: 18rem; height: 23rem;">
+                <img class="card-img-top img-fluid" src="https://placehold.it/100px180" alt="Imagem de capa do card">
+                <div class="card-body">
+                    <h5 class="card-title">Título do card</h5>
+                    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                    <a href="#" class="btn btn-primary">Visitar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card" style="width: 18rem; height: 23rem;">
+                <img class="card-img-top img-fluid" src="https://placehold.it/100px180" alt="Imagem de capa do card">
+                <div class="card-body">
+                    <h5 class="card-title">Título do card</h5>
+                    <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
+                    <a href="#" class="btn btn-primary">Visitar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
