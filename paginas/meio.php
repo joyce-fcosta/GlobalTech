@@ -1,12 +1,5 @@
-
-<div class="container-fluid pb-4 ">
-    <div class="row start">
-        <h1>Portifólio</h1>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row">
+<div class="container-fluid linha_dos_cards">
+    <div class="row ">
 
         <div class="col back_card">
             <div class="card" style="width: 18rem; height: 23rem;">
