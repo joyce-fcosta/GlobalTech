@@ -1,0 +1,87 @@
+.cabeca {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #333333;
+    color: white;
+}
+
+.col-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.scroll {
+    height: 575px;
+    background-color: black;
+    color: white;
+}
+
+.naveg {
+    background-color: black;
+    color: white;
+}
+
+.foto1 {
+    box-shadow: 5px 5px 20px -3px #D8D8D8;
+}
+
+.meio {
+    display: flex;
+    justify-content: center !important;
+    background-color: black !important;
+}
+
+.fc-facebook,
+.fc-instagram,
+.fc-whatsapp,
+.fc-linkedin2 {
+    margin-right: 15px;
+    font-size: 20px;
+    color: white;
+}
+
+.fc-facebook,
+.fc-instagram,
+.fc-whatsapp,
+.fc-linkedin2:hover {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+body {
+    font-family: Arial;
+}
+
+footer {
+    height: 480px;
+    background-color: #333333;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: gray;
+}
+
+.name {
+    font-size: 30px;
+}
+
+.P_foot {
+    color: white;
+}
+
+form {
+    color: white;
+    width: 800px;
+}
+
+.centraliza {
+    display: flex;
+    justify-content: center;
+}
