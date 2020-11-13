@@ -1,0 +1,19 @@
+.toodo {
+    background-color: #f2f2f2;
+    padding-bottom: 30px;
+}
+
+.front,
+.back {
+    background-color: black;
+    color: #f2f2f2;
+    border-radius: 20px;
+    width: 50%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.col {
+    display: flex;
+    justify-content: center;
+}

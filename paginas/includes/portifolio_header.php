@@ -11,8 +11,11 @@
     <!-- Icomoon -->
     <link rel="stylesheet" href="public/fonts/icomoon/style.css">
 
-    <!-- Meu CSS -->
+    <!-- CSS do portifolio-->
     <link rel="stylesheet" href="public/css/portifolio_CSS.css">
+
+    <!-- CSS da página tecnologias  -->
+    <link rel="stylesheet" href="public/css/tecnologias_CSS.css">
 
 
     <title>Portfólio</title>
@@ -40,10 +43,10 @@
             <div class="collapse navbar-collapse " id="conteudoNavbarSuportado">
                 <ul class="navbar-nav mr-auto ">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#"> <b> Portfólio </b><span class="sr-only">(página atual)</span></a>
+                        <a class="nav-link" href="paginas/portifolio_middle.php?pg=portfolio"> <b> Portfólio </b></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"> <b> Tecnologias</b></a>
+                        <a class="nav-link" href="tecnologias.php?pg=tech"> <b> Tecnologias</b></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"> <b> Projetos</b></a>
